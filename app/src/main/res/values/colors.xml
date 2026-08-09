@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF0A0E27</color>
+    <color name="grid">#FF1A1F3A</color>
+    <color name="snake_head">#FF4ADE80</color>
+    <color name="snake_tail">#FF166534</color>
+    <color name="food_red">#FFFF4757</color>
+    <color name="food_green">#FF00FF88</color>
+    <color name="food_blue">#FF3B82F6</color>
+    <color name="food_yellow">#FFFBBF24</color>
+    <color name="food_purple">#FFA855F7</color>
+    <color name="obstacle">#FF3F4466</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

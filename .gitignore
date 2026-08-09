@@ -1,0 +1,18 @@
+﻿# Ключи подписи
+*.jks
+*.keystore
+
+# Локальные настройки
+local.properties
+
+# Build
+/build/
+/app/build/
+.gradle/
+.idea/
+
+# Архивы
+*_sources_*.zip
+*.txt
+!PRIVACY_POLICY*.md
+!README.md
